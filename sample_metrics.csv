@@ -1,0 +1,3 @@
+Strategy,CPU utilization (%),RAM utilization (%),Accepted requests,Rejected requests,Acceptance rate (%)
+FCFS,100.0,100.0,2,1,66.67
+Priority-Based,75.0,100.0,2,1,66.67
